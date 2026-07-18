@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/annjaliii/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/annjaliii/LeetCode/tree/master/0046-permutations) |
+| [0136-single-number](https://github.com/annjaliii/LeetCode/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/annjaliii/LeetCode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/annjaliii/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/annjaliii/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/annjaliii/LeetCode/tree/master/0342-power-of-four) |
 ## Backtracking
